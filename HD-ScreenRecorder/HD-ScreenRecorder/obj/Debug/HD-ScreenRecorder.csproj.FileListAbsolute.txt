@@ -1,0 +1,25 @@
+C:\Users\micha\AppData\Local\Temporary Projects\HD-ScreenRecorder\bin\Debug\HD-ScreenRecorder.exe.config
+C:\Users\micha\AppData\Local\Temporary Projects\HD-ScreenRecorder\bin\Debug\HD-ScreenRecorder.exe
+C:\Users\micha\AppData\Local\Temporary Projects\HD-ScreenRecorder\bin\Debug\HD-ScreenRecorder.pdb
+C:\Users\micha\AppData\Local\Temporary Projects\HD-ScreenRecorder\obj\Debug\HD-ScreenRecorder.csprojResolveAssemblyReference.cache
+C:\Users\micha\AppData\Local\Temporary Projects\HD-ScreenRecorder\obj\Debug\HD_ScreenRecorder.Form1.resources
+C:\Users\micha\AppData\Local\Temporary Projects\HD-ScreenRecorder\obj\Debug\HD_ScreenRecorder.Properties.Resources.resources
+C:\Users\micha\AppData\Local\Temporary Projects\HD-ScreenRecorder\obj\Debug\HD-ScreenRecorder.csproj.GenerateResource.Cache
+C:\Users\micha\AppData\Local\Temporary Projects\HD-ScreenRecorder\obj\Debug\HD-ScreenRecorder.exe
+C:\Users\micha\AppData\Local\Temporary Projects\HD-ScreenRecorder\obj\Debug\HD-ScreenRecorder.pdb
+C:\Users\micha\Desktop\HD-ScreenRecorder\HD-ScreenRecorder\bin\Debug\HD-ScreenRecorder.exe.config
+C:\Users\micha\Desktop\HD-ScreenRecorder\HD-ScreenRecorder\obj\Debug\HD-ScreenRecorder.exe
+C:\Users\micha\Desktop\HD-ScreenRecorder\HD-ScreenRecorder\obj\Debug\HD-ScreenRecorder.pdb
+C:\Users\micha\Desktop\HD-ScreenRecorder\HD-ScreenRecorder\bin\Debug\HD-ScreenRecorder.exe
+C:\Users\micha\Desktop\HD-ScreenRecorder\HD-ScreenRecorder\bin\Debug\HD-ScreenRecorder.pdb
+C:\Users\micha\Desktop\HD-ScreenRecorder\HD-ScreenRecorder\obj\Debug\HD-ScreenRecorder.csprojResolveAssemblyReference.cache
+C:\Users\micha\Desktop\HD-ScreenRecorder\HD-ScreenRecorder\obj\Debug\HD_ScreenRecorder.Properties.Resources.resources
+C:\Users\micha\Desktop\HD-ScreenRecorder\HD-ScreenRecorder\obj\Debug\HD-ScreenRecorder.csproj.GenerateResource.Cache
+C:\Users\micha\Desktop\HD-ScreenRecorder\HD-ScreenRecorder\obj\Debug\HD_ScreenRecorder.Main.resources
+C:\Users\micha\Desktop\HD-ScreenRecorder\HD-ScreenRecorder\bin\Debug\Microsoft.Expression.Encoder.dll
+C:\Users\micha\Desktop\HD-ScreenRecorder\HD-ScreenRecorder\bin\Debug\Microsoft.Expression.Encoder.Types.dll
+C:\Users\micha\Desktop\HD-ScreenRecorder\HD-ScreenRecorder\bin\Debug\Microsoft.Expression.Encoder.Utilities.dll
+C:\Users\micha\Desktop\HD-ScreenRecorder\HD-ScreenRecorder\bin\Debug\Microsoft.Expression.Encoder.xml
+C:\Users\micha\Desktop\HD-ScreenRecorder\HD-ScreenRecorder\bin\Debug\Microsoft.Expression.Encoder.Types.xml
+C:\Users\micha\Desktop\HD-ScreenRecorder\HD-ScreenRecorder\bin\Debug\Microsoft.Expression.Encoder.Utilities.xml
+C:\Users\micha\Desktop\HD-ScreenRecorder\HD-ScreenRecorder\obj\Debug\HD_ScreenRecorder.frmSetting.resources
