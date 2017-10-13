@@ -395,14 +395,15 @@ namespace HD_ScreenRecorder
             {
                 if (registryKey == null)
                 {
-                    using (var newKey = Registry.LocalMachine.CreateSubKey(key))
-                    {
-                        CheckInstallKey(newKey);
-                    }
+                    Registry.LocalMachine.DeleteSubKey(key);
+                    //using (var newKey = Registry.LocalMachine.CreateSubKey(key))
+                    //{
+                    //    CheckInstallKey(newKey);
+                    //}
                 }
                 else
                 {
-                    CheckInstallKey(registryKey);
+                    //CheckInstallKey(registryKey);
                 }
             }
         }
